@@ -13,7 +13,7 @@ Here is the example:
 ```python
 from ruban.applications import InkFountain
 
-ink_fountain = InkFountain(sample_path=r'InkFountainData', lr=0.001)
+ink_fountain = InkFountain(sample_path=r'data', lr=0.001)
 ```
 
 train as easy as `.train()`:
