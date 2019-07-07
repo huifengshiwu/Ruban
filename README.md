@@ -27,10 +27,3 @@ Once your model trained, use it as easy as `.test()`:
 ```python
 ink_fountain.test()
 ```
-
-
-------------------
-
-
-## Donate
-![Donate](https://raw.githubusercontent.com/RubanSeven/Ruban/master/docs/images/donate.jpg)
